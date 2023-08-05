@@ -24,3 +24,8 @@ III - Arrange and set it up to be sent on a discord server that updates its memb
     - invite code for the interested: https://discord.gg/27ej7MJJ
     - properly list the fetched/scraped data and notify the members at 8:00 AM if it triggers a return for Tier 1 Dota 2 tournaments
 
+Future Plans
+
+1. Add Tier 2 tournaments for more content
+2. Add direct twitch.tv link if a game has already started streaming
+
